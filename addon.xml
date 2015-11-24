@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="script.module.pyunit"
+       name="pyunit"
+       version="1.4.1"
+       provider-name="Rui Castro">
+  <requires>
+  </requires>
+  <extension point="xbmc.python.module" library="lib" />
+  <extension point="xbmc.addon.metadata">
+    <summary>The PyUnit module packed for KODI from http://pyunit.sourceforge.net/.</summary>
+    <description>PyUnit - the standard unit testing framework for Python</description>
+    <license>Python Software Foundation License</license>
+    <platform>all</platform>
+    <source>https://github.com/rui-castro/kodi-pyunit</source>
+  </extension>
+</addon>
